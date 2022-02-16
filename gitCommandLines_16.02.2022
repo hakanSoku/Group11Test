@@ -1,0 +1,69 @@
+PS C:\Users\hakan\Desktop\Group11> history
+
+  Id CommandLine
+  -- -----------
+   1 git status
+   2 git status
+   3 git status
+   4 git restore README.md
+   5 git status
+   6 git status
+   7 git restore README.md
+   8 git status
+   9 git add -A
+  10 git commit -m "idea files"
+  11 git push master origin
+  12 git push origin master
+  13 git status
+  14 git log
+  15 git commit -am "Hakan added"
+  16 git checkout master
+  17 git checkout hakanLocal
+  18 git commit -am "Seref Abi added"
+  19 git commit -am "Halil Ibrahim Abi added"
+  20 git checkout master
+  21 git pull
+  22 git pull origin master
+  23 git checkout hakanLocal
+  24 git branch
+  25 git commit -am "deleted old commits"
+  26 git commit -am "2.hakan added"
+  27 git --squash
+  28 git push origin master
+  29 git status
+  30 git commit -am "3.hakan added"
+  31 git commit -am "4.hakan added"
+  32 git status
+  33 git push origin master
+  34 git branch
+  35 git status
+  36 git push origin master
+  37 git push origin master
+  38 git commit -am "5.hakan added"
+  39 git checkout hakanLocal
+  40 git commit -am "updated"
+  41 git status
+  42 git commit -am "updated 2"
+  43 git status
+  44 git push origin master
+  45 git push origin hakan
+  46 git push origin master
+  47 git branch
+  48 git checkout hakanLocal
+  49 git push -u origin hakanLocal
+  50 git commit -am "hakan6 added"
+  51 git push origin hakanLocal
+  52 git checkout SerefAbi
+  53 git branch SerefAbi
+  54 git checkout SerefAbi
+  55 git checkout -b SerefAbi2
+  56 git checkout SerefAbi
+  57 git commit -am "Seref Abi added"
+  58 git checkout SerefAbi2
+  59 git commit -am "seref Abi2 added"
+  60 git push -u origin SerefAbi2
+  61 git checkout SerefAbi
+  62 git push -u origin SerefAbi
+  63 git status
+  64 git push origin SerefAbi
+  65 git push -f origin SerefAbi
